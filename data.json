@@ -1,0 +1,93 @@
+[
+  {
+    "customerEmail": "sudha@gmail.com",
+    "totalPrice": 600,
+    "flightDetails": {
+      "source": "New York",
+      "destination": "London",
+      "date": "2023-10-21"
+    },
+    "passengers": [
+      {
+        "name": "fgsdh",
+        "age": 10
+      },
+      {
+        "name": "dsth",
+        "age": 20
+      },
+      {
+        "name": "dysfy",
+        "age": 30
+      }
+    ]
+  },
+  {
+    "customerEmail": "sudha@gmail.com",
+    "totalPrice": 200,
+    "flightDetails": {
+      "source": "New York",
+      "destination": "London",
+      "date": "2023-11-01"
+    },
+    "passengers": [
+      {
+        "name": "Yajur",
+        "age": 35
+      }
+    ]
+  },
+  {
+    "customerEmail": "ydee1008@gmail.com",
+    "totalPrice": 200,
+    "flightDetails": {
+      "source": "New York",
+      "destination": "London",
+      "date": "2023-11-01"
+    },
+    "passengers": [
+      {
+        "name": "Yajur",
+        "age": 43
+      }
+    ]
+  },
+  {
+    "customerEmail": "ydee1008@gmail.com",
+    "totalPrice": 600,
+    "flightDetails": {
+      "source": "New York",
+      "destination": "London",
+      "date": "2023-11-01"
+    },
+    "passengers": [
+      {
+        "name": "Yajurdeep",
+        "age": 43
+      },
+      {
+        "name": "Jaspreet",
+        "age": 35
+      },
+      {
+        "name": "Jasey",
+        "age": 2
+      }
+    ]
+  },
+  {
+    "customerEmail": "yajurdeep747@gmail.com",
+    "totalPrice": 200,
+    "flightDetails": {
+      "source": "New York",
+      "destination": "London",
+      "date": "2023-11-01"
+    },
+    "passengers": [
+      {
+        "name": "Yajur",
+        "age": 43
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "firstName": "Yajurdeep",
+    "lastName": "Arora",
+    "email": "ydee1008@gmail.com",
+    "password": "1542478",
+    "address1": "4 2-6 Kelly Street",
+    "address2": "",
+    "city": "Werribee",
+    "state": "Victoria",
+    "zip": "3030"
+  },
+  {
+    "firstName": "Yajurdeep",
+    "lastName": "Arora",
+    "email": "ydee1008@gmail.com",
+    "password": "52145784",
+    "address1": "4 2-6 Kelly Street",
+    "address2": "",
+    "city": "Werribee",
+    "state": "Victoria",
+    "zip": "3030"
+  },
+  {
+    "firstName": "Yajurdeep",
+    "lastName": "Arora",
+    "email": "yajurdeep747@gmail.com",
+    "password": "123456",
+    "address1": "4 2-6 Kelly Street",
+    "address2": "",
+    "city": "Werribee",
+    "state": "Victoria",
+    "zip": "3030"
+  }
+]
